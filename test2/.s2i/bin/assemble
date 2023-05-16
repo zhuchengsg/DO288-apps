@@ -16,5 +16,6 @@ fi
 echo "---> Copying source files to web server directory..."
 cp -Rf /tmp/src/. /var/www/html/
 
-cp -Rf /tmp/info.html /var/www/html/
+cp -Rf /tmp/info.html /var/www/html/info2.html
+
 
